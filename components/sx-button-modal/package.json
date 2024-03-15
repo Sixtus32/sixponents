@@ -7,7 +7,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-usuario/tu-repositorio.git"
+    "url": "https://github.com/Sixtus32/sixponents/tree/main/components/sx-button-modal"
     },
   "homepage": "https://github.com/Sixtus32/sixponents",
   "main": "index.js",

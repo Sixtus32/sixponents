@@ -1,20 +1,20 @@
 {
-  "name": "sixponents/sx-custom-textarea",
+  "name": "sx-custom-textarea",
   "version": "1.0.1",
-  "description": "",
+  "description": "Custom textarea web component for UI development.",
   "contributors": [
     "Sixtus Nosike <sixtuswork18@gmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-usuario/tu-repositorio.git"
-    },
+    "url": "https://github.com/Sixtus32/sixponents/tree/main/components/sx-custom-textarea"
+  },
   "homepage": "https://github.com/Sixtus32/sixponents",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["biblioteca", "web components", "UI", "JavaScript"],
+  "keywords": ["library", "web components", "UI", "JavaScript"],
   "author": "Sixtus32",
   "license": "ISC"
 }
