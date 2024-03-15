@@ -10,12 +10,12 @@ Web components to work with the Cita Clinica API project.
 
 | Component       | Description           |
 |-----------------| ----------------------|
-| `sx-button`     | Botón de acción       |
-| `sx-collapse`   | Lista a colapsar      |
-| `sx-checkbox`   | Check de opciones    |
-| `sx-radio`      | Radio      |
-| `sx-select`     | Selección      |
-| `sx-finput`      | Para input de formularios      |
+| `sx-button-dynamic`     | Botón de acción       |
+| `sx-custom-finput`   | label + input      |
+| `sx-custom-select`   | Trabajar con array en el select    |
+| `sx-custom-textarea`      | Conteo de texto en el un textarea      |
+| `sx-button-modal`     | Botón para abrir modal      |
+| `sx-theme-selector`      | Selector moderno      |
 
 > IMPORTANTE : It's called sixcomponents because they usually call me Six, and because they are my components too and I will only create six components.
 
@@ -23,10 +23,10 @@ Web components to work with the Cita Clinica API project.
 
 ### 1) Install
 
-Install a component (sx-button for example) from NPM:
+Install a component (sx-button-dynamic for example) from NPM:
 
 ```sh
-npm install @sixponents/sx-button
+npm install @sixponents/sx-button-dynamic
 ```
 
 ### 2) Write Raw HTML and JS (without framework)
